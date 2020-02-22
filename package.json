@@ -1,0 +1,26 @@
+{
+  "name": "@bulma-partials/components-level",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulma-partials/components-level.git"
+  },
+  "keywords": [
+    "bulma",
+    "scss",
+    "sass",
+    "partials",
+    "level"
+  ],
+  "author": "Yoni Calsin <helloyonicb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bulma-partials/components-level/issues"
+  },
+  "homepage": "https://github.com/bulma-partials/components-level#readme"
+}
